@@ -121,6 +121,8 @@ int main(int argc, char* argv[]){
 
     }
 
+    file.close();
+    
     int32_t len_x = 0;
     int32_t len_y = 0;
 
